@@ -20,7 +20,7 @@ public static Scanner teclado = new Scanner(System.in);
 		num1=teclado.nextInt();
 		
 		if(num*num1==64) {
-			System.out.println("He dibujado tu cara");
+			System.out.println("He dibujado tu retrato");
 		}
 		
 		resultado= num*num1;
